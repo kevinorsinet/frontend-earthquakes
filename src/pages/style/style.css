@@ -1,0 +1,27 @@
+#legend {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+	background-color: rgb(240, 240, 239);
+}
+
+#legend img {
+	height: 30px;
+	width: 30px;
+	margin: 5px;
+}
+
+#legend div{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+}
+
+.is-hidden {
+	display:none;
+}
